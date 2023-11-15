@@ -1,0 +1,5 @@
+codes\domino\pokeballmc\item\ItemManager.class
+codes\domino\pokeballmc\command\GiveBallCommand.class
+codes\domino\pokeballmc\PokeballMC.class
+codes\domino\pokeballmc\event\EntityCaptureListener.class
+codes\domino\pokeballmc\event\EntityUnCaptureListener.class

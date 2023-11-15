@@ -1,0 +1,8 @@
+name: PokeballMC
+version: '${project.version}'
+main: codes.domino.pokeballmc.PokeballMC
+api-version: '1.20'
+
+commands:
+  giveball:
+    description: 'Gives the pokeball item.'
